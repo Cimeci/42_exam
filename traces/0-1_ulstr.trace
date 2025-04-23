@@ -1,8 +1,0 @@
-----------------8<-------------[ START TEST 
-        💻 TEST
-./a.out "L'eSPrit nE peUt plUs pRogResSer s'Il staGne et sI peRsIsTent VAnIte et auto-justification." 
-        🔎 YOUR OUTPUT:
-lEspRITNePEuTPLuSPrOGrESsERSiLSTAgNEETSiPErSiStENTvaNiTEETAUTOJUSTIFICATION$
-        🗝 EXPECTED OUTPUT:
-l'EspRIT Ne PEuT PLuS PrOGrESsER S'iL STAgNE ET Si PErSiStENT vaNiTE ET AUTO-JUSTIFICATION.$
-----------------8<------------- END TEST ]
